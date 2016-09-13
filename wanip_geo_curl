@@ -1,0 +1,3 @@
+curl -s http://www.whereisip.net/ |grep -i region
+
+
